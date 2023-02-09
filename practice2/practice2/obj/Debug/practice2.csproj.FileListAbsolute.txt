@@ -1,0 +1,17 @@
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\bin\Debug\practice2.exe.config
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\bin\Debug\practice2.exe
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\bin\Debug\practice2.pdb
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\practice2.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\MainWindow.g.cs
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\pages\1.g.cs
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\App.g.cs
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\practice2_MarkupCompile.cache
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\practice2_MarkupCompile.lref
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\MainWindow.baml
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\pages\1.baml
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\practice2.g.resources
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\practice2.Properties.Resources.resources
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\practice2.csproj.GenerateResource.cache
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\practice2.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\practice2.exe
+C:\Users\student\Documents\Механики М-22-101\Наумов Юрий и Плешков Максим\ИСиП-201\Ефремов\Курсы\practice2\practice2\obj\Debug\practice2.pdb

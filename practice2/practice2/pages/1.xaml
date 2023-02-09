@@ -1,0 +1,73 @@
+﻿<Page x:Class="practice2.pages._1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:practice2.pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="_1">
+
+    <Grid Background="Lavender">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="260*"/>
+                <ColumnDefinition Width="540*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Растояние (км)" Background="HotPink" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="28"/>
+
+            <TextBox Grid.Column="1" Margin="5" FontSize="28" TextAlignment="Center" Name="txbInput"></TextBox>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Цена бензина (руб/литр)" Padding="5" Background="HotPink" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="22" Margin="10,19,4,18" Width="253"/>
+
+            <TextBox Grid.Column="1" Margin="5" FontSize="22" TextAlignment="Center" Name="txbInput2"></TextBox>
+
+            <Button IsEnabled="False" Background="HotPink" Content="Вычислить" Grid.Column="2" Name="btnRes1" FontSize="22" Click="btnRes1_Click"/>
+        </Grid>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock xml:space="preserve" Text="Потребление бензина(Литров на 100 км)" Padding="5" Background="HotPink" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="22" Margin="10,0,4,0" Width="253" TextWrapping="Wrap" Height="75"/>
+
+            <TextBox Grid.Column="1" Margin="5" FontSize="22" TextAlignment="Center" Name="txbInput3"></TextBox>
+
+            <Button IsEnabled="False" Background="HotPink" Content="Вычислить" Grid.Column="2" Name="btnRes2" FontSize="22" Click="btnRes2_Click"/>
+        </Grid>
+
+        <CheckBox Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Center">
+            <CheckBox.LayoutTransform>
+                <ScaleTransform ScaleX="3" ScaleY="3"/>
+            </CheckBox.LayoutTransform>
+        </CheckBox>
+
+        <TextBlock Text="Туда и обратно" Grid.Row="3" Padding="5" FontSize="22" Background="HotPink" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="66,23,0,23"/>
+
+        <TextBlock x:Name="txblockRes" Grid.Row="4" FontSize="22" Background="HotPink" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+
+
+
+        <Button Grid.Row="5" Background="HotPink" Margin="600,0,0,0" Content="Exit" FontSize="24" FontWeight="Bold" FontStyle="Italic" Click="Button_Click"/>
+
+    </Grid>
+</Page>
